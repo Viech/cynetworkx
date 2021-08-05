@@ -1,3 +1,5 @@
+# cython: binding=True
+
 import sys
 
 from collections import defaultdict
